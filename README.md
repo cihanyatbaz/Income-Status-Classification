@@ -7,7 +7,6 @@ On Jupyter notebook, you can see the explanation for the project and comparisons
 
 
 
-
 	dataset: http://archive.ics.uci.edu/ml/datasets/Census+Income 
 	Supervised Learning / Binary Classification							
 	If you want to reach result image, you should open with JupiterNotebook 
