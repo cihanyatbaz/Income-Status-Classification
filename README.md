@@ -1,6 +1,5 @@
-<p align="center">
 # Income Status Classification
-</p>
+
 * For this machine learning project, we used some Supervised Learning Models such as Gradient Boosting, SVM, Logistic Regression, Naive Bayes and Decision Tree.
 
 <p align="center">
