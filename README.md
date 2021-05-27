@@ -2,9 +2,9 @@
 
 * For this machine learning project, we used some Supervised Learning Models such as Gradient Boosting, SVM, Logistic Regression, Naive Bayes and Decision Tree.
 
-<p align="center">
-![Alt text](images/about.PNG?raw=true "About")
-</p>
+
+![About Us](images/about.PNG?raw=true "About Us")
+
 
 
 
@@ -18,9 +18,9 @@
 
 # **Dataset:**
 
-<p align="center">
-![Dataset](images/dataset.PNG?raw=true "dataset")
-</p>
+
+![Dataset](images/dataset.PNG?raw=true "Dataset")
+
 
 
 	dataset: http://archive.ics.uci.edu/ml/datasets/Census+Income 
@@ -32,9 +32,9 @@
 
 * After applying Pre-processing and other steps, we tried to get ROC-AUC scores for different models.
 
-<p align="center">
+
 ![Roc-Auc Compression for Different Models](images/roc-auc_comparison.PNG?raw=true "dataset")
-</p>
+
 
 
 * In the end, we tried to get different scores for different situations.
@@ -60,9 +60,9 @@
 
 *On Jupyter notebook, you can see more explanation for the project and comparisons of the models.
 
-<p align="center">
-![Thank You!](images/thanks.PNG?raw=true "dataset")
-</p>
+
+![Thank You](images/thanks.PNG?raw=true "dataset")
+
 	
 	
 	
