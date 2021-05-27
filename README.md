@@ -1,9 +1,9 @@
 # Income-Status-Classification
 
 
-For this machine learning project, we used some Supervised Learning Models such as Gradient Boosting, SVM, Logistic Regression, Naive Bayes and Decision Tree. We got the best result with the Gradient Boosting algorithm by achieving a 90% success rate.
+![Alt text](images/about.PNG?raw=true "About")
 
-On Jupyter notebook, you can see the explanation for the project and comparisons of the models.
+For this machine learning project, we used some Supervised Learning Models such as Gradient Boosting, SVM, Logistic Regression, Naive Bayes and Decision Tree. .
 
 
 
@@ -13,3 +13,11 @@ On Jupyter notebook, you can see the explanation for the project and comparisons
 	
 	
 	
+
+
+
+
+
+
+
+On Jupyter notebook, you can see more explanation for the project and comparisons of the models.
