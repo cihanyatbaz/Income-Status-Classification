@@ -10,13 +10,9 @@
 
 
 
-##  **The Goal:**
+##  **The Goal and Dataset:**
 * The dataset we used for this project is an extraction of 1994 Census database. It consists of demographic features such as age, workclass, education, education-num, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per-week, native-country and final-weight which is a combination of some features. Our main goal is to predict whether income exceeds $50K/yr based on census data.
 
-	
-
-
-# **Dataset:**
 
 
 ![Dataset](images/dataset.PNG?raw=true "Dataset")
