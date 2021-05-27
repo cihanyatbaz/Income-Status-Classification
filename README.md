@@ -42,7 +42,7 @@
 
 * Simple & Distribution Based Imputation Comparison
 
-![Simple & Distribution Based Imputation Comparison](images/Simple_vs_Distribution_Based Imputation_Comparison.PNG?raw=true "dataset")
+![Simple & Distribution Based Imputation Comparison](images/Simple_vs_Distribution_Based_Imputation_Comparison.PNG?raw=true "dataset")
 
 
 
@@ -54,7 +54,9 @@
 
 
 
-*On Jupyter notebook, you can see more explanation for the project and comparisons of the models.
+
+
+***On Jupyter notebook, you can see more explanation for the project and comparisons of the models.**
 
 
 ![Thank You](images/thanks.PNG?raw=true "dataset")
