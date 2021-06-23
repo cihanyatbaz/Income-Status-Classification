@@ -7,6 +7,7 @@
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 ##  **The Goal and Dataset:**
@@ -23,6 +24,7 @@
 	Supervised Learning / Binary Classification				
 	
 
+-------------------------------------------------------------------------------------------------------------------------------
 
 ## **Results:**
 
@@ -32,6 +34,7 @@
 ![Roc-Auc Compression for Different Models](images/roc-auc_comparison.PNG?raw=true "dataset")
 
 
+-------------------------------------------------------------------------------------------------------------------------------
 
 * In the end, we tried to get different scores for different situations.
 
@@ -55,6 +58,7 @@
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------
 
 ***On Jupyter notebook, you can see more explanation for the project and comparisons of the models.**
 
